@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lacarone
-- 👀 I’m interested in software (especially related to my favorite industries: Automotive, CRE & Transportation)
-- 🌱 I’m currently learning about Flutter & ReactJS
-- 💞️ I’m looking to collaborate on anything that could be interesting and become useful in the world
+- 👀 I’m interested in software (especially related to my favorite industry, CRE)
+- 🌱 I’m currently diving deep and learning about ReactJS
+- 💞️ I’m looking to collaborate on anything that could be interesting and become useful in the world (and honestly advance my career in tech within the CRE industry)
 - 📫 How to reach me (knox97js@gmail.com, therealmilovan@gmail.com)
 
 <!---
