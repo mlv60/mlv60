@@ -1,6 +1,6 @@
 
 <!--- old version
-- 👋 Hi, I’m Milovan Lacarak (@mlv60)
+- 👋 Hi, I’m Milovan (@mlv60)
 - 👀 I’m interested in software (especially related to my favorite industry, CRE)
 - 🌱 I’m currently diving deep and learning about ReactJS
 - 💞️ I’m looking to collaborate on anything that could be interesting and become useful in the world (and honestly advance my career in tech within the CRE industry)
