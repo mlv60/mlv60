@@ -13,14 +13,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+  ### hi, i am Milo (@mlv60)</h2>
+  * full-stack developer with more heavier focus on front-end (fe: react, nextjs; be: nodejs;)
+  * currently learning: go
+  * discord: this.alderon
   
   
   <samp>
   <h2>hi, i am Milo (@mlv60)</h2>
     <br>full-stack developer with more heavier focus on front-end (fe: react, nextjs; be: nodejs;)
-    <br><br>currently learning: go
-    <br><br>📫 discord: this.alderon
+    <br>currently learning: go
+    <br>discord: this.alderon
   </samp>
   
   
