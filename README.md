@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
   
   
   <samp>
-  <h2>👋 Hi, I’m Milovan (@mlv60)</h2>
-    <br>full-stack javascript developer with more heavier focus on front-end
+  <h2>hi, i am Milo (@mlv60)</h2>
+    <br>full-stack developer with more heavier focus on front-end (fe: react, nextjs; be: nodejs;)
     <br><br>currently learning: go
     <br><br>📫 discord: this.alderon
   </samp>
