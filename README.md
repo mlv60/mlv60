@@ -2,9 +2,9 @@
 
 
   ### hi, i am Milo (@mlv60)</h2>
-  * full-stack developer with more heavier focus on front-end (fe: react, nextjs; be: nodejs;)
-  * currently learning: go
-  * discord: this.alderon
+  * **role:** full-stack developer with more heavier focus on front-end (fe: react, nextjs; be: nodejs;)
+  * **currently learning:** go
+  * **discord:** this.alderon
   
   
 <!--  <samp>
