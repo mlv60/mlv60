@@ -1,7 +1,7 @@
 
 
 
-  ### hi, i am Milo (@mlv60)</h2>
+  #### hi, i am milo (@mlv60)</h2>
   * **role:** full-stack developer, front-end heavy (fe: react & nextjs be: nodejs)
   * **learning:** go
   * **discord:** this.alderon
